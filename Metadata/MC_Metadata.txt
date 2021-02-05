@@ -1,0 +1,11 @@
+DatasetName                                                                             PROC_XSEC[pb]       Uncertainty[pb]         Nevents                     Source
+Signal_test                                                                             1                   none                    1                           none
+Signal_600_150_45                                                                       12.62864726         none                    1265.135365538299           none
+TTTo2L2Nu                                                                               88287.7             +2.08-3.07+3.68-3.68    2999394736.570312           [1](NNLO)(old)
+DYJetsToMuMU                                                                            6077220.0           +-17.26                 339331784997794283520       [1](NNLO)(old)
+[1] > > > https://twiki.cern.ch/twiki/bin/viewauth/CMS/SummaryTable1G25ns
+[2] > > > https://twiki.cern.ch/twiki/bin/viewauth/CMS/StandardModelCrossSectionsat13TeV
+[3] > > > https://twiki.cern.ch/twiki/bin/view/LHCPhysics/TtbarNNLO
+[4] > > > https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SingleTopRefXsec
+[5] > > > DAS
+[6] > > > https://twiki.cern.ch/twiki/bin/view/LHCPhysics/SUSYCrossSections13TeVgluglu

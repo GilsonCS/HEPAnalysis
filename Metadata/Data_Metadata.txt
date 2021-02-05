@@ -1,0 +1,5 @@
+Data-taking     ID      Luminosity[pb-1]     Uncertainty[%]
+2016            16      35921.875595         2.5
+2017            17      41529.548819         2.3
+2018            18      59740.565202         2.5
+> > > https://twiki.cern.ch/twiki/bin/view/CMS/TWikiLUM
