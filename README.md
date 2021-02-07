@@ -5,7 +5,7 @@ Quick start
 -----------
 
 Inisde your private area in lxplus (NOT in the EOS area and not necessarily inside a CMSSW release), download the code.  
-`git clone https://github.com/DESY-CBPF-UERJ/HEPAnalysis.git .`
+`git clone https://github.com/DESY-CBPF-UERJ/HEPAnalysis.git`
 
 Enter in the HEPAnalysis directory:  
 `cd HEPAnalysis`
